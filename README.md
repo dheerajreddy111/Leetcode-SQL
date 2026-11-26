@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1527-patients-with-a-condition) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/dheerajreddy111/Leetcode-SQL/tree/master/1978-employees-whose-manager-left-the-company) |
